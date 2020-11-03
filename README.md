@@ -1,4 +1,5 @@
-John Bryce College School Year Final Project – Elad Bruchim 
+# John Bryce College School Year Final Project – Elad Bruchim 
+
 
 In this lab I'm going to set up communication network which simulate a medium-sized organization with Ubuntu server that constitutes the web server of organization that inside included a two client of windows 10 and active directory and present a possible situation of attacks and show how I  gone to detect and prevent it.
 In this lab I used on virtual box network all the machines described below :
