@@ -11,7 +11,7 @@ In this lab I used on virtual box network all the machines described below :
 * Active Directory 2012(target-located on SERVERS):10.10.1.100
 
 password list :
-windows 10 Administrator:(U-jachri P-Aa123456)
-window 10 standard user:(U-alona P-A13241324!)
-ubuntu server -(U-art,root, P-toor)
-Active directory(U-Administrator P-2wsx!QAZ)
+- windows 10 Administrator:(U-jachri P-Aa123456)
+- window 10 standard user:(U-alona P-A13241324!)
+- ubuntu server -(U-art,root, P-toor)
+- Active directory(U-Administrator P-2wsx!QAZ)
