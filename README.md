@@ -15,3 +15,5 @@ password list :
 - window 10 standard user:(U-alona P-A13241324!)
 - ubuntu server -(U-art,root, P-toor)
 - Active directory(U-Administrator P-2wsx!QAZ)
+-----------------------------------------------
+- Download link for the lab from MEGAsync : 
