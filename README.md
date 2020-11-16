@@ -16,4 +16,6 @@ password list :
 - ubuntu server -(U-art,root, P-toor)
 - Active directory(U-Administrator P-2wsx!QAZ)
 -----------------------------------------------
-. Download link for the lab from MEGAsync : 
+# Download link for the lab from MEGAsync : 
+- Windows 10 Administrator : https://mega.nz/file/gto2RZRB#OA8T1cZL0Q70tq0FbDv2UgfYFA1ymcLMwQeKWTHmsPY
+
