@@ -17,7 +17,7 @@ password list :
 - Active directory(U-Administrator P-2wsx!QAZ)
 -----------------------------------------------
 # Download link for the lab from MEGAsync :
--Windows Server 2012 : https://mega.nz/file/NloSxSSA#acYelRYvyr3mlQwHhdpdigto7PNRiETTtleEgGzBy9s
+- Windows Server 2012 : https://mega.nz/file/NloSxSSA#acYelRYvyr3mlQwHhdpdigto7PNRiETTtleEgGzBy9s
 - Windows 10 Administrator : https://mega.nz/file/gto2RZRB#OA8T1cZL0Q70tq0FbDv2UgfYFA1ymcLMwQeKWTHmsPY
 - Windows 10 Standard user : https://mega.nz/file/NxxiCYpR#6jW2jx0mF8BrsyqncajzL3juYvI4KUwu0oup5213-yU
 -ELK : https://mega.nz/file/Q950XQDI#uRbA-LSErUoK8oygWBWl1LAdh_yRLLp5HQGGsWR3Fzo
