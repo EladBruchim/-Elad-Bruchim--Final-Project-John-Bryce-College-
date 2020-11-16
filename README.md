@@ -16,4 +16,4 @@ password list :
 - ubuntu server -(U-art,root, P-toor)
 - Active directory(U-Administrator P-2wsx!QAZ)
 -----------------------------------------------
-- Download link for the lab from MEGAsync : 
+. Download link for the lab from MEGAsync : 
